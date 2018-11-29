@@ -97,7 +97,7 @@ TO DO:
    Works for single series- change name and can then merge to get more series for same period and periodicity
 */
 
-%time_genr(Pop,01Jan14,01Jan17,week,100,20,2,20);
+%time_genr(Pop,01Jan16,01Jan19,week,100,20,2,20);
 
 
 
